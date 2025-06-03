@@ -1,13 +1,5 @@
-<p align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mamunurRoshid14/mamunurRoshid14/main/mamunur%20r.jpg" 
-       alt="Mamunur Roshid" 
-       width="300" 
-       style="border-radius: 50%;" />
-</p>
-
-### Hi there 👋, I'm Mamunur Roshid
-🚀 Problem Solver | 💡 IoT & Web Developer | 📱 Android Enthusiast
+## Hi there 👋, I'm Mamunur Roshid
+### 🚀 Problem Solver | 💡 IoT & Web Developer | 📱 Android Enthusiast
 
 
 
